@@ -5,17 +5,11 @@ Uno de nuestros pasatiempos es separarlos por colores y apilarlos de todas las f
 Por ejemplo: Si tenemos 5 Lacasitos, tendremos 7 formas distintas de apilarlos.
 ```
 O   O   O   O   O
-
 OO   O   O   O
-
 OOO   O   O
-
 OOO   OO
-
 OO   OO   O
-
 OOOO   O
-
 OOOOO
 
 ```

@@ -2,7 +2,7 @@ En SEMIC nos tomamos la seguridad informática muy en serio. Tanto, que uno de n
 
 El problema es que ayer nuestro compañero desapareció y no tenemos forma de contactar con él. Todos estamos parados y nadie puede trabajar. Tenemos que encontrar la clave sea como sea.
 
-[IMG_6232] FROM THIS FOLDER
+[IMG_6232_2] FROM THIS FOLDER
 
 También hemos entrado en el despacho para buscar todas las pistas posibles que nos ayuden a poder descifrar la clave, pero no hemos encontrado nada.
 

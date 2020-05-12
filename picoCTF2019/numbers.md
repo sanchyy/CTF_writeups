@@ -1,7 +1,7 @@
 # The Numbers
 
 The numbers... what do they mean?  
-![image](https://github.com/sanchyy/CTF_writeups/picoCTF2019/imgs/the_numbers.png)
+![image](https://github.com/sanchyy/CTF_writeups/blob/master/picoCTF2019/imgs/the_numbers.png)
 
 
 ## Procedure

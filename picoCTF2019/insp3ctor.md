@@ -1,6 +1,6 @@
 # Insp3ctor problem
 
- we've recevied this url `https://2019shell1.picoctf.com/problem/11196/`.  
+Kishor Balan tipped us off that the following code may need inspection: https://2019shell1.picoctf.com/problem/11196/
 
 ## 1st part of the flag
 
